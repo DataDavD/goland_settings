@@ -86,6 +86,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="QuickTypeDefinition">
     <keyboard-shortcut first-keystroke="shift alt space" />
   </action>
